@@ -1,0 +1,2 @@
+# Process Scheduling
+There are two different cases. In the first one, we schedule the students comming in to use washing machines and in the second one, we schedule the customers for a pizza shop. the customers come wait outside the drive through, come in the drive through is space is there. Order their food anf then a chef is allocated is free an oven is allocated if free the customers waits in the drive through and picks up the order if rwaches the pickup window and the order is ready. The chefs come and go also.
